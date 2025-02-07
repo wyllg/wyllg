@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm [Wyell] 👋
 
-<!--
-**wyllg/wyllg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m learning: [Java and Python]
+- 🤔 I’m currently focusing on: [learning and improving]
+
+## 🔗 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/wyell-garay/)
+- [Email](mailto:garaywyell@gmail.com)
