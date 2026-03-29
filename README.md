@@ -1,11 +1,11 @@
-# Hi there, I'm [Wyell] 👋
+# Hi there, I'm Wyell 👋
 
 Welcome to my GitHub profile! 
 
 ## 🚀 About Me
 
-- 🌱 I’m learning: [Java and Python]
-- 🤔 I’m currently focusing on: [learning and improving]
+- 🌱 I’m learning: Java and Python
+- 🤔 I’m currently focusing on: learning and improving
 
 ## 🔗 Connect with me
 
