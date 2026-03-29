@@ -1,13 +1,23 @@
-# Hi there, I'm Wyell 👋
+# Hi, I'm Wyell 
 
-Welcome to my GitHub profile! 
+##  About Me
+3rd Year Computer Engineering Student
+Batangas State University
 
-## 🚀 About Me
+### Technical Stack
 
-- 🌱 I’m learning: Java and Python
-- 🤔 I’m currently focusing on: learning and improving
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, JavaScript, C++, Rust, SQL, HTML, CSS |
+| **Backend** | Django, Flask, SpringBoot, Node.js, Streamlit |
+| **Frontend** | React, Vite, Tailwind CSS, Next.js |
+| **Data & Systems** | Pandas, Linux (Ubuntu/Mint), Arduino/ESP32 |
+| **DevOps & Tools** | Git, GitHub, Vercel, Aiven |
+| **Design** | Adobe Photoshop, UI/UX Principles |
 
-## 🔗 Connect with me
+---
+
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/wyell-garay/)
 - [Email](mailto:garaywyell@gmail.com)
