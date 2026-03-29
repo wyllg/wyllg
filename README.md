@@ -15,8 +15,6 @@ Batangas State University
 | **DevOps & Tools** | Git, GitHub, Vercel, Aiven |
 | **Design** | Adobe Photoshop, UI/UX Principles |
 
----
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/wyell-garay/)
