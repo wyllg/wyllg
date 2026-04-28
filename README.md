@@ -1,21 +1,27 @@
-# Hi, I'm Wyell 
+<div align="center">
 
-##  About Me
-3rd Year Computer Engineering Student
-Batangas State University
+# Wyell Garay
 
-### Technical Stack
+**Computer Engineering Student** · Batangas State University · 3rd Year
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java, JavaScript, C++, Rust, SQL, HTML, CSS |
-| **Backend** | Django, Flask, SpringBoot, Node.js, Streamlit |
-| **Frontend** | React, Vite, Tailwind CSS, Next.js |
-| **Data & Systems** | Pandas, Linux (Ubuntu/Mint), Arduino/ESP32 |
-| **DevOps & Tools** | Git, GitHub, Vercel, Aiven |
-| **Design** | Adobe Photoshop, UI/UX Principles |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wyell-garay/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://wyellg.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:garaywyell@gmail.com)
 
-## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/wyell-garay/)
-- [Email](mailto:garaywyell@gmail.com)
+### Languages & Frameworks
+
+```
+Python · Java · JavaScript · SQL · HTML · CSS
+
+Django · Flask · FastAPI · SpringBoot · Node.js · Streamlit
+React · Next.js · Vite · Tailwind CSS
+```
+
+### Tools & Platforms
+
+```
+Git · GitHub · Vercel · Supabase · Aiven
+Pandas · Arduino · ESP32 · Linux (Ubuntu / Mint)
+Adobe Photoshop · UI/UX Design
+```
