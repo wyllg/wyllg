@@ -2,7 +2,7 @@
 
 # Wyell Garay
 
-**Computer Engineering Student** · Batangas State University · 3rd Year
+**BS Computer Engineering** · Batangas State University 
 
 
 [![LinkedIn](https://img.shields.io/badge/_%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wyell-garay/)
